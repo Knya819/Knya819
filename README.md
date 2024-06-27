@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Kelly, I'm a data Scientist with an Academic Background in Mathematics and AI.
+
+
 <!--
 **Knya819/Knya819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
