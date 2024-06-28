@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Kelly, I'm a data Scientist with an Academic Background in Mathematics and AI.
+My name is Kelly, I am a data Scientist with an Academic Background in Mathematics and AI.
 
 
 <!--
