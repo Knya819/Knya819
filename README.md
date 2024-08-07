@@ -28,7 +28,6 @@ I'm a former national-level track and field athlete in Italy. I enjoy daily runs
 - **Breast Cancer Prediction and Detection: Comparison of the Latest Machine Learning Techniques** | International Conference on Innovative Computing and Communication (ICICC 2024)
 
 ## 🌐 Find Me Online
-- [GitHub](https://github.com/Knya819)
 - [LinkedIn](https://www.linkedin.com/in/okny/)
 
 
