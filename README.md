@@ -34,4 +34,4 @@ I'm a former national-level track and field athlete in Italy. I enjoy daily runs
 ## 🎯 Work Authorization
 Eligible to work in the UK
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Knya819&color=blue)
