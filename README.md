@@ -1,19 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Kelly!
 
-My name is Nyko, I am a data scientist with an academic background in mathematics and AI.
+![Profile Banner](https://your-image-url.com)
 
+## 🌟 About Me
+I'm a results-driven **Data Scientist** with a genuine passion for solving complex problems. I hold an MSc in Artificial Intelligence and thrive in statistical analysis and data modeling. Proficient in **Python**, **SQL**, **DBT**, and a variety of data analysis tools, I have a proven track record of developing forecasting models and driving impactful solutions.
 
-<!--
-**Knya819/Knya819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
+- **Languages:** Python, SQL, Java, MATLAB, Excel
+- **Tools:** Power BI, Pandas, DBT, Prophet, BigQuery
+- **Technical Skills:** Statistical analysis, Data modeling, Machine Learning, Data Warehousing
+- **Soft Skills:** Analytical problem-solving, Collaboration, Communication
 
-Here are some ideas to get you started:
+## 📊 Projects
+- Developed a forecasting model with Python, SQL, and Prophet in BigQuery.
+- Conducted customer segmentation using RFM analysis.
+- Implemented multivariate LSTM models for sales forecasting.
+- Created Power BI dashboards for senior stakeholders.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Languages
+- **English:** Fluent
+- **Italian:** Proficient
+- **French:** Fluent
+
+## 📚 Interests
+I'm a former national-level track and field athlete in Italy. I enjoy daily runs, gym challenges, outdoor activities, and exploring London. I actively engage in diverse meetups and volunteer with Cancer Research.
+
+## 📈 Publications
+- **Breast Cancer Prediction and Detection: Comparison of the Latest Machine Learning Techniques** | International Conference on Innovative Computing and Communication (ICICC 2024)
+
+## 🌐 Find Me Online
+- [GitHub](https://github.com/your-github-username)
+- [LinkedIn](https://www.linkedin.com/in/okny/)
+- [Twitter](https://twitter.com/your-twitter-handle)
+
+## 🎯 Work Authorization
+Eligible to work in the UK
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
