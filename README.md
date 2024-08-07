@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Kelly!
 
-![Profile Banner](https://your-image-url.com)
-
 ## 🌟 About Me
 I'm a results-driven **Data Scientist** with a genuine passion for solving complex problems. I hold an MSc in Artificial Intelligence and thrive in statistical analysis and data modeling. Proficient in **Python**, **SQL**, **DBT**, and a variety of data analysis tools, I have a proven track record of developing forecasting models and driving impactful solutions.
 
@@ -18,9 +16,10 @@ I'm a results-driven **Data Scientist** with a genuine passion for solving compl
 - Created Power BI dashboards for senior stakeholders.
 
 ## 🌐 Languages
-- **English:** Fluent
-- **Italian:** Proficient
+- **Italian:** Fluent
 - **French:** Fluent
+- **English:**  Proficient
+
 
 ## 📚 Interests
 I'm a former national-level track and field athlete in Italy. I enjoy daily runs, gym challenges, outdoor activities, and exploring London. I actively engage in diverse meetups and volunteer with Cancer Research.
@@ -29,9 +28,8 @@ I'm a former national-level track and field athlete in Italy. I enjoy daily runs
 - **Breast Cancer Prediction and Detection: Comparison of the Latest Machine Learning Techniques** | International Conference on Innovative Computing and Communication (ICICC 2024)
 
 ## 🌐 Find Me Online
-- [GitHub](https://github.com/your-github-username)
+- [GitHub](https://github.com/Knya819)
 - [LinkedIn](https://www.linkedin.com/in/okny/)
-- [Twitter](https://twitter.com/your-twitter-handle)
 
 ## 🎯 Work Authorization
 Eligible to work in the UK
