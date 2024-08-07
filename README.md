@@ -31,7 +31,5 @@ I'm a former national-level track and field athlete in Italy. I enjoy daily runs
 - [GitHub](https://github.com/Knya819)
 - [LinkedIn](https://www.linkedin.com/in/okny/)
 
-## 🎯 Work Authorization
-Eligible to work in the UK
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Knya819&color=blue)
