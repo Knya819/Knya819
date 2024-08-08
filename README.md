@@ -18,7 +18,7 @@ I'm a results-driven **Data Scientist** with a genuine passion for solving compl
 ## 🌐 Languages
 - **Italian:** Fluent
 - **French:** Fluent
-- **English:**  Proficient
+- **English:**  Fluent
 
 
 ## 📚 Interests
