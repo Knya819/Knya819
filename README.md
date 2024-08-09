@@ -16,8 +16,8 @@ I'm a results-driven **Data Scientist** with a genuine passion for solving compl
 - Created Power BI dashboards for senior stakeholders.
 
 ## 🌐 Languages
-- **Italian:** Fluent
-- **French:** Fluent
+- **Italian:**  Fluent
+- **French:**   Fluent
 - **English:**  Fluent
 
 
